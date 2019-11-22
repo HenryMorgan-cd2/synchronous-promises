@@ -1,0 +1,12 @@
+{
+  "name": "temp-syncrounous-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.12.11",
+    "ts-lib": "^0.0.5",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.2"
+  }
+}
